@@ -15,20 +15,6 @@ function blank_required_plugins_ecommerce() {
 	$plugins = array(
 
 		array(
-			'name'         => 'Blank Utilities',
-			'slug'         => 'blank-utilities',
-			'source'       => 'https://github.com/conraid/blank-utilities/archive/2.1.zip',
-			'required'     => true,
-			'external_url' => 'https://github.com/conraid/blank-utilities',
-		),
-
-		array(
-			'name'     => 'Blank Footnotes',
-			'slug'     => 'blank-footnotes',
-			'required' => false,
-		),
-
-		array(
 			'name'     => 'Woocommerce',
 			'slug'     => 'woocommerce',
 			'required' => true,

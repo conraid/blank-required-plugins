@@ -17,7 +17,7 @@ function blank_required_plugins_prod() {
 		array(
 			'name'         => 'Blank Utilities',
 			'slug'         => 'blank-utilities',
-			'source'       => 'https://github.com/conraid/blank-utilities/archive/2.1.zip',
+			'source'       => 'https://github.com/conraid/blank-utilities/releases/download/2.3/blank-utilities.2.3.zip',
 			'required'     => true,
 			'external_url' => 'https://github.com/conraid/blank-utilities',
 		),
