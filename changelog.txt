@@ -1,5 +1,9 @@
 *** Blank Plugins ***
 
+2019-03-08 version 1.1
+
+* Added some plugins
+
 2019-02-13 version 1.0
 
 * First commit

@@ -17,6 +17,10 @@ so you can choose which one to install and/or activate.
 
 ## Changelog ##
 
+### 1.1 ###
+
+* Added some plugins
+
 ### 1.0 ####
 
 * Initial release
