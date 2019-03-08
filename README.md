@@ -23,4 +23,6 @@ so you can choose which one to install and/or activate.
 
 ## Note ##
 
-This plugin is for my personal use.
+This plugin is for my personal use and testing library.
+You get a similar result with mu-plugins or "favorites" in the wordpress.org plugin list.
+

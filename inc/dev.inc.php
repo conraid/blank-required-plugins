@@ -88,6 +88,18 @@ function blank_required_plugins_dev() {
 			'name' => 'Duplicate Menu',
 			'slug' => 'duplicate-menu',
 		),
+		array(
+			'name' => 'Query Monitor',
+			'slug' => 'query-monitor',
+		),
+		array(
+			'name' => 'Styleguide',
+			'slug' => 'styleguide',
+		),
+		array(
+			'name' => 'duplicate-page',
+			'slug' => 'duplicate-page',
+		),
 	);
 
 	/*
