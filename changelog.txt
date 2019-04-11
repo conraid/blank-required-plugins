@@ -1,5 +1,9 @@
 *** Blank Plugins ***
 
+2019-04-10 version 1.2
+
+* Added some plugins
+
 2019-03-08 version 1.1
 
 * Added some plugins

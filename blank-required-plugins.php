@@ -10,14 +10,14 @@
  * @copyright 2019 Corrado Franco
  * @license   http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GPL-2
  * @link      https://github.com/conraid/blank-plugins
- * @version   1.1
+ * @version   1.2
  */
 
 /*
 Plugin Name: Blank Required Plugins
 Plugin URI: https://github.com/conraid/blank-required-plugins
 Description: External plugins loader with TGM Plugin Activation library
-Version: 1.1
+Version: 1.2
 Author: Corrado Franco <conraid@linux.it>
 Author URI: http://conraid.net
 License: GPL-2
