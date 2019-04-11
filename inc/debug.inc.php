@@ -64,6 +64,50 @@ function blank_required_plugins_debug() {
 			'name' => 'Health Check & Troubleshooting',
 			'slug' => 'health-check',
 		),
+		array(
+			'name' => 'UsageDD',
+			'slug' => 'usagedd',
+		),
+		array(
+			'name' => 'Plugins Garbage Collector',
+			'slug' => 'plugins-garbage-collector',
+		),
+		array(
+			'name' => 'WP Health',
+			'slug' => 'my-wp-health-check',
+		),
+		array(
+			'name' => 'WordPress Inspector',
+			'slug' => 'inspector-wp',
+		),
+		array(
+			'name' => 'Debug Objects',
+			'slug' => 'debug-objects',
+		),
+		array(
+			'name' => 'WP Healthcheck',
+			'slug' => 'wp-healthcheck',
+		),
+		array(
+			'name' => 'WordPress Assets manager',
+			'slug' => 'gonzales',
+		),
+		array(
+			'name' => 'PHP/MySQL CPU performance statistics',
+			'slug' => 'mywebtonet-performancestats',
+		),
+		array(
+			'name' => 'Clearfy – WordPress optimization plugin',
+			'slug' => 'clearfy',
+		),
+		array(
+			'name' => 'Black Bar',
+			'slug' => 'blackbar',
+		),
+		array(
+			'name' => 'Plugin Detective – Troubleshooting',
+			'slug' => 'plugin-detective',
+		),
 	);
 
 	/*

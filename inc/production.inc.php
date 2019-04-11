@@ -86,7 +86,6 @@ function blank_required_plugins_prod() {
 			'name' => 'Autoptimize',
 			'slug' => 'autoptimize',
 		),
-		
 		array(
 			'name' => 'Async JavaScript',
 			'slug' => 'async-javaScript',
@@ -94,6 +93,19 @@ function blank_required_plugins_prod() {
 		array(
 			'name' => 'W3 Total Cache',
 			'slug' => 'w3-total-cache',
+		),
+		array(
+			'name' => 'Heartbeat Control',
+			'slug' => 'heartbeat-control',
+		),
+		array(
+			'name' => 'Adaptive Images per WordPress',
+			'slug' => 'adaptive-images',
+		),
+
+		array(
+			'name' => 'Freesoul Deactivate Plugins',
+			'slug' => 'freesoul-deactivate-plugins',
 		),
 	);
 

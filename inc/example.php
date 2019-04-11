@@ -59,7 +59,7 @@ function my_theme_register_required_plugins() {
 	 */
 	$plugins = array(
 
-		// Minimal voice
+		// Minimal voice.
 		array(
 			'name' => '',
 			'slug' => '',

@@ -97,8 +97,16 @@ function blank_required_plugins_dev() {
 			'slug' => 'styleguide',
 		),
 		array(
-			'name' => 'duplicate-page',
+			'name' => 'Duplicate Page',
 			'slug' => 'duplicate-page',
+		),
+		array(
+			'name' => 'Adaptive Images per WordPress',
+			'slug' => 'adaptive-images',
+		),
+		array(
+			'name' => 'Freesoul Deactivate Plugins',
+			'slug' => 'freesoul-deactivate-plugins',
 		),
 	);
 
